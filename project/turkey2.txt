@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+<title>TURKEY</title>
+<meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+  <style>
+body {
+  background:#eff5f5;
+}
+    h1{
+      border:1px solid black;
+      border-bottom:6px solid pink;
+      margin:25px 50px 75px 100px;
+      background-color:white;
+    }
+</style>
+  
+</head>
+<body>
+  <h1 align="center">Turkey </h1>
+  <p align="center">
+Turkey is an intercontinental state located mainly in West Asia
+</p>
+  <img src="14.png" width="250" height="250" style="vertical-align:middle" >
+<p align="center">
+  Turkey's current administration headed by president Recep Tayyip Erdoğan of the AKP has enacted measures to increase the influence of Islam, and undermine Kemalist policies and freedom of the press . 
+  </p>
+  <p align="center">
+    The official language is Turkish, which is the most widely spoken Turkic language in the world . 
+  </p>
+  <p>
+    The currency in Turkey is Liras :
+  </p>
+   <img src="2.jpg" width="250" height="250">
+  <p align="center">
+    Cotton, tea, olives, grapes, citrus fruits, vegetables, grains and barley are the most important         agricultural crops in the country. Turkey is one of the largest producers of hazelnuts in the world.
+  </p>
+   <img src="16.png" width="250" height="250">
+  <p >
+    The most popular sport in Turkey is football .
+
+    Galatasaray won the UEFA Cup and UEFA Super Cup in 2000.
+  </p>
+   <img src="17.png"  width="250" height="250">
+ <h2>Famous food in turkey :</h2>
+
+<ul>
+  <li>Mantı  </li>
+   <img src="21.png" width="250" height="250">
+  <li>Adana Kebap</li>
+   <img src="22.png" width="250" height="250">
+  <li>Simit</li>
+   <img src="23.png" width="250" height="250">
+</ul>
+
+
+
+<h3>Some Word :</h3>
+<table id="t01">
+  <tr>
+    <th>Word</th>
+    <th>How to pronounce ?</th> 
+    <th>Meaning</th>
+  </tr>
+  <tr>
+    <td>Selam</td>
+    <td>Salam</td>
+    <td>Hello</td>
+  </tr>
+  <tr>
+    <td>Günaydın</td>
+    <td>Qonieden</td>
+    <td>Good Morning</td>
+  </tr>
+  <tr>
+    <td>Nasılsın ?</td>
+    <td>Nasisin?</td>
+    <td>How are you?</td>
+  </tr>
+  <tr>
+    <td>Hoşçakal</td>
+    <td>Hoshakal</td>
+    <td>Bye</td>
+  </tr>
+  <tr>
+    <td>Lütfen</td>
+    <td>Lutfan</td>
+    <td>Please</td>
+  </tr>
+  <tr>
+    <td>İyi akşamlar</td>
+    <td>Ayy akshm lar</td>
+    <td>Good Evening</td>
+  </tr>
+  <tr>
+    <td>Evet/Hayır</td>
+    <td>Avait/Hayir</td>
+    <td>Yes/No</td>
+  </tr>
+  
+</table>
+
+<center>
+<a href="file:///C:/Users/lujain/Desktop/project/page2.html">
+    <button type="button" style="width:211px;height:45px;">HOME</button>
+  </a>
+</center>
+  <hr>
+  
+  <p align="left"> <img src="18.png" width="20" height="20"> info@gmail.com     </p>
+  <p align="left"> <img src="19.png" width="20" height="20"> +966 5025247846 </p>
+ 
+<nav>
+  <p align="left">REFERENCES:</p>
+<a  href="/https://en.wikipedia.org/wiki/Main_Page/">Wikipedia</a>
+<p>Shahad ibrahem Alradadi</p>
+<p>Lujain hatim bathnain</p>
+  
+</nav>
+</body>
+</html>
