@@ -126,7 +126,9 @@ dishes made from fish, vegetable, tofu and the like to add flavor to the staple 
 
 <img src="7.jpg" alt="Trulli" width="250" height="250">
 
-<img src="10.jpg" alt="Trulli" width="250" height="250">
+<img src="10.jpg" alt="Trulli" width="250" height="250"> 
+
+
 
 <h2><ins>Famous food in japan : </ins></h2>
 
@@ -185,12 +187,27 @@ dishes made from fish, vegetable, tofu and the like to add flavor to the staple 
 
 </table>
 
+<br><br>
+
+
+<button onclick="document.getElementById('myImage').src='Capture2.GIF'">JAPANES</button>
+
+<img id="myImage" src="Capture3.GIF" style="width:200px">
+
+<button onclick="document.getElementById('myImage').src='Capture3.GIF'">ENGLISH</button>
+
+
+
+<br><br><br><br><br>
+
+
+
 
 
 
 
 <center>
-<a href="file:///C:/Users/lujain/Desktop/project/page2.html">
+<a href="file:///C:/Users/lujain/Desktop/lujain/project/page2.html">
     <button type="button" style="width:211px;height:45px;">HOME</button>
   </a>
 </center>

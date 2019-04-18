@@ -172,7 +172,7 @@ a:link, a:visited {
   <tr>
  
    <td>
-<a href="file:///C:/Users/lujain/Desktop/project/turkey2.html">
+<a href="file:///C:/Users/lujain/Desktop/lujain/project/turkey2.html">
 
     <button type="button" style="width:211px;height:45px;">Turkey</button>
   </a>
@@ -187,7 +187,7 @@ a:link, a:visited {
 
   <td>
 
-<a href="file:///C:/Users/lujain/Desktop/project/japan2.html">
+<a href="file:///C:/Users/lujain/Desktop/lujain/project/japan2.html">
  
 
    <button type="button" style="width:211px;height:45px;">Japan</button>
